@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container{
+    width: 800px;
+    margin: 0 auto;
+  }
+  
+  .menu{
+    background-color: yellow;
+   
+  }
+  .ul{
+    text-align: center;
+  }
+  .li{
+    display: inline;
+    margin-left: 30px;
+  
+  
+  }
+  
+  .menu_a{
+    color:  brown;
+    text-decoration: none;
+  }
+  
+  .menu_a:hover{
+    color: red;
+    
+  }
+  
+  .navbar_img{
+    width: 600px;
+  
+    background-size: cover;
+  }
